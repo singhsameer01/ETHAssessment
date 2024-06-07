@@ -1,5 +1,4 @@
-# Hello World
-
+# MyToken Smart Contract
 This Solidity smart contract "MyToken"  is a basic ERC20-like token. The contract allows for minting and burning of tokens, and keeps track of balances associated with addresses.
 
 ## Prerequisites
